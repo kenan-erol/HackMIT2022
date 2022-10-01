@@ -59,7 +59,7 @@ contacts:
     url: mailto:whyherro@nativvstudios.com
 
 # Build settings
-theme: jekyllxbulma
+theme: minima
 plugins:
   - jekyll-feed
 
